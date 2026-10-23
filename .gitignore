@@ -1,0 +1,37 @@
+# Runtime and sensitive data
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Local AstrBot runtime artifacts
+runtime/
+local-data/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.env
+.env.*
+!.env.example
+
+# Agent and editor state
+.dsh-memory/
+.codex/
+.vscode/
+.idea/
+
+# Secrets and credentials
+*.key
+*.pem
+secrets/
+
+# Generated research/cache artifacts
+research/_cache/
+third_party/_build/
