@@ -27,3 +27,8 @@ Design phase. No runtime implementation is enabled yet.
 - Making every inferred concept a hard fact.
 
 See [the architecture overview](docs/architecture/overview.md) and [the design draft](docs/superpowers/specs/2026-10-23-memory-fabric-design.md).
+
+## License
+
+Licensed under the GNU Affero General Public License v3.0 only ([AGPL-3.0-only](LICENSE)).
+Third-party components retain their original licenses and attribution requirements.
